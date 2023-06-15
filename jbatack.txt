@@ -1,0 +1,12 @@
+***********************************************
+IP: ::1
+LC: OK;;::1;-;-;-;-;-;0;0;-
+email: loslocosv123@gmail.com
+pass: ioasdioajsid
+Date: 07-03-2023
+***********************************************
+IP: ::1
+LC: OK;;::1;-;-;-;-;-;0;0;-
+email: loslocosv123@hotmail.com
+pass: http://my-alert4.go.yj.fr/raiz/robert12.txt
+Date: 11-03-2023
